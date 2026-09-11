@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bunnystats"
-version = "1.0"
+version = "1.1"
 description = "A Python library for obtaining usage statistics for the bunny.net CDN"
 readme = "README.md"
 requires-python = ">=3.8"
